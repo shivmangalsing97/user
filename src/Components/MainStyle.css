@@ -1,0 +1,26 @@
+.Main-div {
+  margin: 20px auto;
+  width: 50%;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+  }  
+th, td {
+    padding: 10px;
+    text-align: center;
+  } 
+
+.onHover:hover {
+      background-color:yellow;
+      border-bottom: 2px solid black;
+}
+
+.Hover-div{
+  height: 40px;
+  width: 50%;
+  margin: 50px auto ;
+  
+}
